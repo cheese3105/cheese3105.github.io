@@ -3,8 +3,6 @@ title: Docker, debug, first challenge from HTB
 tags: write-up, HTB, blog
 ---
 
-
-[toc]
 # Lời mở đầu
 Sau khoảng hơn 3 tháng chăm chỉ nghiên cứu về web trên PortSwigger, mình quyết định sẽ test thử những gì mình đã học được bằng một challenge easy trên HackTheBox. Đây là một challenge web white box, đòi hỏi phải có kỹ năng dựng docker, debug, phân tích source code web,... Và đó cũng là những nội dung mình sẽ chia sẻ trong bài viết này.
 # 1. Tải source code
