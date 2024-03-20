@@ -1,6 +1,6 @@
 ---
 title: Docker, debug, first challenge from HTB
-tags: write-up, HTB, blog
+tags: write-up HTB blog
 ---
 
 # Lời mở đầu
