@@ -67,11 +67,11 @@ Các lệnh có thể dùng để cài
 | wget   | `sh -c "$(wget -O- https://install.ohmyz.sh/)"`    | 
 | fetch   | `sh -c "$(fetch -o - https://install.ohmyz.sh/)"`    | 
 
-:::danger
-Lưu ý: Khi install oh my zsh sẽ backup file `~/.zshrc` sẵn có sang một file khác tên là `~/.zshrc.pre-oh-my-zsh` sau đó sẽ **ghi đè** file `~/.zshrc` của bạn
+```diff
+- Lưu ý: Khi install oh my zsh sẽ backup file ~/.zshrc sẵn có sang một file khác tên là ~/.zshrc.pre-oh-my-zsh sau đó sẽ **ghi đè** file ~/.zshrc của bạn  
 
--> Cần phải chỉnh sửa, copy lại các lệnh trong file backup và bỏ vào `~/.zshrc` để tránh việc các cấu hình trước đó của bạn cho các công cụ khác như python có thể sẽ bị lỗi :v 
-:::
++ Cần phải chỉnh sửa, copy lại các lệnh trong file backup và bỏ vào ~/.zshrc để tránh việc các cấu hình trước đó của bạn cho các công cụ khác như python có thể sẽ bị lỗi :v 
+```
 
 Chưa kịp custom thì mình đã được gợi ý một công cụ khác để làm màu :smile: 
 
@@ -150,5 +150,8 @@ Thêm xong thì save file lại và khởi động lại terminal/iTerm2
 Kết quả 
 
 ![image](https://hackmd.io/_uploads/S1ShN62I1e.png)
+
+## Nguồn:
+https://www.youtube.com/watch?v=wNQpDWLs4To
 
 **THE END**
