@@ -1,6 +1,6 @@
 ---
 title: BlindXSS from HTB
-tags: write-up HTB blog
+tags: write-up HTB
 ---
 
 Đây là cách mình giải một lab BlindXSS của HTB :3
